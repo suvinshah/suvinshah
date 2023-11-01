@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suvin Shah</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align=“right” alt=“coding” width=“400” src= "https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+<img align=“right” alt=“coding” width=“400” src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvinshah&label=Profile%20views&color=0e75b6&style=flat" alt="suvinshah" /> </p>
 

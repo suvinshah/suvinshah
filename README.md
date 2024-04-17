@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **suvin.shah94@gmail.com**
 
-- ⚡ Fun fact **I am foodie and can eat with two hands :P.**
+- ⚡ Fun fact **I am foodie:P.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

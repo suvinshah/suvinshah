@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, Deep Learning**
+- 🌱 I’m currently learning **AWS, Data Science**
 
 - 💬 Ask me about **Statistics,Python,Machine Learning,DBMS,SQL,PowerBI,Tableau,**
 
 - 📫 How to reach me **suvin.shah94@gmail.com**
 
-- ⚡ Fun fact **I am foodie:P.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

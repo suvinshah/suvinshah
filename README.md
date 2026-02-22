@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suvin Shah</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst and Data Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvinshah&label=Profile%20views&color=0e75b6&style=flat" alt="suvinshah" /> </p>
 

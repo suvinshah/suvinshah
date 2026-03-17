@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS, Data Science**
 
-- 💬 Ask me about **Statistics,Python,Machine Learning,DBMS,SQL,PowerBI,Tableau,**
+- 💬 Ask me about **Python,Machine Learning,SQL,PowerBI,Tableau,Snowflake,Databricks**
 
 - 📫 How to reach me **suvin.shah94@gmail.com**
 
